@@ -1,3 +1,11 @@
+# ⚠️ DEPRECATED
+
+**This project is no longer maintained.** Its functionality has been moved to [ktsu.ImGuiApp](https://github.com/ktsu-dev/ImGuiApp).
+
+Please migrate to the new library for continued support and updates.
+
+---
+
 # ktsu.ImGuiWidgets
 
 ImGuiWidgets is a library of custom widgets using ImGui.NET. This library provides a variety of widgets and utilities to enhance your ImGui-based applications.
